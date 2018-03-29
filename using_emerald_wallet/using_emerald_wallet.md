@@ -13,7 +13,7 @@ For MacOS: Download the `.dmg` file and run it.
 # First Use
 
 After installing you should be greeted with the following screen:
-[image]
+![network_select.PNG](./network_select.PNG)
 
 Here you have two options, "Remote Node" and "Full Node":
 
@@ -46,7 +46,7 @@ Morden is for developer use so unless you're programming your own smart contract
 # Receiving ETC
 To receive ETC you need to provide your public address to the sender, which you can find on the main screen of the wallet and copy by clicking the two boxes/pieces of paper; highlighted below.
 
-[image]
+![address_example.PNG](./address_example.PNG)
 
 # Sending ETC
 To send ETC click on "Send" from the main screen. Enter your wallet's password and the address you want to send to (highlighted in yellow).
@@ -55,6 +55,6 @@ You'll get an estimated transaction fee and can then click on "Send".
 
 After sending the transaction will confirm shortly. You can also double check it after a minute or two by entering the recipient's address on either https://gastracker.io or http://etherhub.io
 
-[image]
+![send_etc.PNG](./send_etc.PNG)
 
 **It is always a good idea to send a very small test transaction first, confirm the recipient has received the ETC, and then follow up with a second transaction. Even when sending to exchanges you'll want to make sure it first reaches your account. This helps prevent accidental loss of ETC.**

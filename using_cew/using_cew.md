@@ -22,13 +22,13 @@ If you have forgotten your public address you can get it again using the `.json`
 
 To view your address (without sending any ETC) click on "View Wallet Info" and select your method for viewing. Then click on Unlock. An example is below.
 
-[image]
+![view_wallet_info.PNG](./view_wallet_info.PNG)
 
 Select your method in the circled area on the left, do what the middle section of the screen tells you, and click "Unlock".
 
 On the next screen your address will be displayed in the section highlighted in yellow. Copy this and provide it to the sender.
 
-[image]
+![view_wallet_address.PNG](./view_wallet_address.PNG)
 
 **Do not copy or share anything that says private key, or unencrypted, no matter what. Do not share `.json` files. Anyone with access to any of these can take your ETC.**
 
@@ -38,15 +38,15 @@ To send ETC you'll need your `.json` file, private key, mnemonic phrase, or hard
 
 Click on "Send Ether & Tokens", and then select your method on the left, do what the middle section of the screen tells you, and click "Unlock".
 
-[image]
+![send_etc.PNG](send_etc.PNG)
 
 Once unlocked you enter the recipient's address and the amount in the areas highlighted in yellow.
 
-[image]
+![send_etc.PNG](send_etc2.PNG)
 
 Then click on "Generate Transaction", followed by "Send Transaction". A new screen will pop-up, please check it carefully to ensure that the transaction is as you want it. If it is you can click "Yes, I am sure! Make transaction". This will send your ETC to the recipient.
 
-[image]
+![send_etc.PNG](send_etc_confirm.PNG)
 
 After sending the transaction will confirm shortly. You can also double check it after a minute or two by entering the recipient's address on either https://gastracker.io or http://etherhub.io
 
