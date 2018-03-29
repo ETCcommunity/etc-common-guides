@@ -23,5 +23,5 @@ Try a public JSON RPC end point. Remember to rate limit (something sane like <1 
 
 https://mewapi.epool.io:8545 (Epool)
 https://web3.gastracker.io:8545 (ETCDEV)
-https://etc-geth.0xinfra.com:8454 (Ethereum Commonwealth)
+https://etc-geth.0xinfra.com:8545 (Ethereum Commonwealth)
 https://etc-parity.0xinfra.com:8545 (Ethereum Commonwealth)
