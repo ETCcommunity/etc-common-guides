@@ -18,9 +18,10 @@ To fix this you'll need to provide the amount to send in Wei instead of Ether/ET
 
 *Note: This is normally only the case when working with contracts, when doing regular transactions that amount is typically specified in Ether/ETC*
 
-## Deployed contracts are uninitialized objects
-One thing that takes a bit to realize about contracts is that they're essentially uninitialized objects, each and every address that uses the contract gets its own version of it. There's no persistence within the object itself.
+## I want to query the blockchain without using a full node
+Try a public JSON RPC end point. Remember to rate limit (something sane like <1 request per second)
 
-This is rather counter-intuitive since contracts have a constructor when deployed, so you'd *think* that they are instantiated objects waiting to be used but that's not true.
-
-This also means that no deployed Contract has its own static or personal storage, all storage is allocated and managed at whatever address is calling the Contract.
+https://mewapi.epool.io:8545 (Epool)
+https://web3.gastracker.io:8545 (ETCDEV)
+https://etc-geth.0xinfra.com:8454 (Ethereum Commonwealth)
+https://etc-parity.0xinfra.com:8545 (Ethereum Commonwealth)
