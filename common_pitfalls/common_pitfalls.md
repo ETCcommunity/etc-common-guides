@@ -21,7 +21,11 @@ To fix this you'll need to provide the amount to send in Wei instead of Ether/ET
 ## I want to query the blockchain without using a full node
 Try a public JSON RPC end point. Remember to rate limit (something sane like <1 request per second)
 
+### Mainnet (live network)
 https://mewapi.epool.io:8545 (Epool)
-https://web3.gastracker.io:8545 (ETCDEV)
+https://web3.gastracker.io (ETCDEV)
 https://etc-geth.0xinfra.com:8545 (Ethereum Commonwealth)
 https://etc-parity.0xinfra.com:8545 (Ethereum Commonwealth)
+
+### Morden (test network)
+https://web3.gastracker.io/morden
