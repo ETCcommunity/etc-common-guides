@@ -28,4 +28,5 @@ https://etc-geth.0xinfra.com:8545 (Ethereum Commonwealth)
 https://etc-parity.0xinfra.com:8545 (Ethereum Commonwealth)
 
 ### Morden (test network)
-https://web3.gastracker.io/morden
+https://web3.gastracker.io/morden (ETCDEV)
+http://mordenapi.ethertrack.io:8545 (@bakon)
